@@ -1,3 +1,4 @@
+# Goodreads scraper
 Created this cause https://github.com/maria-antoniak/goodreads-scraper/ was broken
 
 # Prerequisites
