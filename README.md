@@ -14,18 +14,22 @@ So basically just edit `INPUT_FILE` and `OUTPUT_FILE` in each script and run
 The input file should contain either a list of ids separated by line or id and name
 
 Ex: Both work.
-`
+
 9265453.Embassytown
+
 16090981.Thief
+
 13067.Flush
+
 793399.Stray
-`
+
+
 
 OR
 
-`
+
 9265453
 16090981
 13067
 793399
-`
+
